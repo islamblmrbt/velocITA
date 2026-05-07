@@ -39,14 +39,14 @@
           "origin": "https://uber.dev/"
         }
       ],
-      //"@stripe/stripe-react-native"
       [
         "@stripe/stripe-react-native",
         {
           "merchantIdentifier": "merchant.com.velocITA",
-          "enableGooglePay": true 
+          "enableGooglePay": true
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
